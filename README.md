@@ -6,4 +6,4 @@ A new React-based Google Books Search application. This application was using Re
 
 ## Demo
 
-*(React) Google Books Search* is deployed to Heroku. Please check it out [here](https://fathomless-falls-68758.herokuapp.com/)
+*(React) Google Books Search* is deployed to Heroku. Please check it out [here](https://google-searchapplication.herokuapp.com/)
